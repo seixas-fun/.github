@@ -14,13 +14,13 @@ Exploring the intersection of creativity and development. **Seixas Fun** is a sp
       <td align="center" width="400">
         <a href="https://github.com/seixas-fun/tamandua">
         <picture>
-          <source srcset="https://raw.githubusercontent.com/seixas-fun/tamandua/refs/heads/main/static/icons/tamandua_horizontal.png" media="(prefers-color-scheme: dark)">
+          <source srcset="https://raw.githubusercontent.com/seixas-fun/tamandua/refs/heads/main/static/icons/tamandua_horizontal_dark.png" media="(prefers-color-scheme: dark)">
           <source srcset="https://raw.githubusercontent.com/seixas-fun/tamandua/refs/heads/main/static/icons/tamandua_horizontal.png" media="(prefers-color-scheme: light)">
-          <img src="https://raw.githubusercontent.com/seixas-fun/tamandua/refs/heads/main/static/icons/tamandua_horizontal.png" alt="Tamanduá logo" style="height: 120px; width: auto;">
+          <img src="https://raw.githubusercontent.com/seixas-fun/tamandua/refs/heads/main/static/icons/tamandua_horizontal.png" alt="Tamanduá logo" style="height: 100px; width: auto;">
         </picture>
         </a>
       </td>
-      <td>Guess the flag</td>
+      <td>Can you guess all the flags? Pick an option or type the name of the flag.</td>
     </tr>
     </tbody>
 </table>
