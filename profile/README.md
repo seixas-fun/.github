@@ -15,8 +15,8 @@ Exploring the intersection of creativity and development. **Seixas Fun** is a sp
         <a href="https://github.com/seixas-fun/tamandua">
         <picture>
           <source srcset="https://raw.githubusercontent.com/seixas-fun/tamandua/refs/heads/main/static/icons/tamandua_horizontal_dark.png" media="(prefers-color-scheme: dark)">
-          <source srcset="https://raw.githubusercontent.com/seixas-fun/tamandua/refs/heads/main/static/icons/tamandua_horizontal.png" media="(prefers-color-scheme: light)">
-          <img src="https://raw.githubusercontent.com/seixas-fun/tamandua/refs/heads/main/static/icons/tamandua_horizontal.png" alt="Tamanduá logo" style="height: 100px; width: auto;">
+          <source srcset="https://raw.githubusercontent.com/seixas-fun/tamandua/refs/heads/main/static/icons/tamandua_horizontal_light.png" media="(prefers-color-scheme: light)">
+          <img src="https://raw.githubusercontent.com/seixas-fun/tamandua/refs/heads/main/static/icons/tamandua_horizontal_light.png" alt="Tamanduá logo" style="height: 100px; width: auto;">
         </picture>
         </a>
       </td>
